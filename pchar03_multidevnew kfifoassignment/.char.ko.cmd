@@ -1,0 +1,1 @@
+savedcmd_/home/rushikesh/eldd/Day08/pchar03_multdevnew/char.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/rushikesh/eldd/Day08/pchar03_multdevnew/char.ko /home/rushikesh/eldd/Day08/pchar03_multdevnew/char.o /home/rushikesh/eldd/Day08/pchar03_multdevnew/char.mod.o;  true

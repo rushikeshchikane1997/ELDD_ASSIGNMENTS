@@ -1,0 +1,1 @@
+savedcmd_/home/rushikesh/eldd/Day08/pchar03_multdevnew/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/rushikesh/eldd/Day08/pchar03_multdevnew/Module.symvers -T /home/rushikesh/eldd/Day08/pchar03_multdevnew/modules.order -i Module.symvers -e 

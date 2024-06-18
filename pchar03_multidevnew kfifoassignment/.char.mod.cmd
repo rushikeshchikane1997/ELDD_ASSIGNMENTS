@@ -1,0 +1,1 @@
+savedcmd_/home/rushikesh/eldd/Day08/pchar03_multdevnew/char.mod := printf '%s\n'   char.o | awk '!x[$$0]++ { print("/home/rushikesh/eldd/Day08/pchar03_multdevnew/"$$0) }' > /home/rushikesh/eldd/Day08/pchar03_multdevnew/char.mod
