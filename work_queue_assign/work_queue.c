@@ -7,7 +7,7 @@
 #include <linux/uaccess.h>
 #include <linux/interrupt.h>
 
-#define LED_GPIO     49
+#define LED_GPIO       49
 #define SWITCH_GPIO    115
 
 static int bbb_gpio_open(struct inode *, struct file *);
